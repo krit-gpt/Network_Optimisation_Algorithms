@@ -1,4 +1,4 @@
-﻿Graph TypeDijkstra  Dijkstra-with-Heap    Kruskal   Dijkstra -Dijkstra -Dikstra-Heap-1      Dijkstra-Heap-2        Kruskal -1Kruskal - Kruskal -1Kruskal - 
+Graph TypeDijkstra  Dijkstra-with-Heap    Kruskal   Dijkstra -Dijkstra -Dikstra-Heap-1      Dijkstra-Heap-2        Kruskal -1Kruskal - Kruskal -1Kruskal - 
 1         0,126711  0,137874              0,148327  0,126711  10,128474 0,137874            4,413414               0,148327  28,581443 0,181782  25,435056 
 2         10,128474 4,413414              28,581443 0,3149    7,190446  0,160413            2,355545               0,147102  25,344326 0,006377  0,001699  
 1         0,3149    0,160413              0,147102  0,964097  8,081383  0,305168            0,56958                0,131429  20,698245 0,00831   0,000438  
